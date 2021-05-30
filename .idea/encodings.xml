@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ems_thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ems_thymeleaf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emstest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emstest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filemanagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-01-helloword-quick/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-01-helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-02-config-autoconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-02-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-03-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-05-web-jsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-07-data-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-07-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-07-data-jpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-07-data-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-08-cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-08-cache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-09-rabbitmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-09-rabbitmq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-10-elasticsearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-10-elasticsearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-11-task/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-11-task/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-12-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-12-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-13-dubbo/consumer-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-13-dubbo/consumer-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-13-dubbo/provider-ticket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-13-dubbo/provider-ticket/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-14-springcloud/consumer-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-14-springcloud/consumer-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-14-springcloud/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-14-springcloud/eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-14-springcloud/provider-ticket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-14-springcloud/provider-ticket/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-15-solr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-15-solr/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatisplus/src/main/java" charset="UTF-8" />
+  </component>
+</project>

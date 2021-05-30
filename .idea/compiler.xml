@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="filemanagement" />
+        <module name="spring-boot-08-cache" />
+        <module name="springboot-mybatisplus" />
+        <module name="spring-boot-09-rabbitmq" />
+        <module name="ems_thymeleaf (1)" />
+        <module name="eureka-server" />
+        <module name="spring-boot-07-data-mybatis" />
+        <module name="srping-boot-05-web-jsp" />
+        <module name="spring-boot-12-security" />
+        <module name="spring-boot-02-config" />
+        <module name="spring-boot-10-elasticsearch" />
+        <module name="spring-boot-01-helloworld" />
+        <module name="spring-boot-04-web-restfulcrud" />
+        <module name="spring-boot-01-helloword-quick" />
+        <module name="ems_thymeleaf" />
+        <module name="consumer-user" />
+        <module name="spring-boot-07-data-jpa" />
+        <module name="spring-boot-11-task" />
+        <module name="provider-ticket" />
+        <module name="provider-ticket (1)" />
+        <module name="consumer-user (1)" />
+        <module name="spring-boot-07-data-jdbc" />
+        <module name="spring-boot-03-logging" />
+        <module name="spring-boot-15-solr" />
+        <module name="spring-boot-02-config-autoconfig" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer-user" target="1.8" />
+      <module name="consumer-user (1)" target="1.8" />
+      <module name="ems_thymeleaf" target="1.8" />
+      <module name="ems_thymeleaf (1)" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="filemanagement" target="1.8" />
+      <module name="provider-ticket" target="1.8" />
+      <module name="provider-ticket (1)" target="1.8" />
+      <module name="spring-boot-01-helloword-quick" target="1.8" />
+      <module name="spring-boot-01-helloworld" target="1.6" />
+      <module name="spring-boot-02-config" target="1.8" />
+      <module name="spring-boot-02-config-autoconfig" target="1.8" />
+      <module name="spring-boot-03-logging" target="1.8" />
+      <module name="spring-boot-04-web-restfulcrud" target="1.8" />
+      <module name="spring-boot-07-data-jdbc" target="1.8" />
+      <module name="spring-boot-07-data-jpa" target="1.8" />
+      <module name="spring-boot-07-data-mybatis" target="1.8" />
+      <module name="spring-boot-08-cache" target="1.8" />
+      <module name="spring-boot-09-rabbitmq" target="1.8" />
+      <module name="spring-boot-10-elasticsearch" target="1.8" />
+      <module name="spring-boot-11-task" target="1.8" />
+      <module name="spring-boot-12-security" target="1.8" />
+      <module name="spring-boot-15-solr" target="1.8" />
+      <module name="springboot-mybatisplus" target="1.8" />
+      <module name="srping-boot-05-web-jsp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consumer-user (1)" options="-parameters" />
+      <module name="ems_thymeleaf" options="-parameters" />
+      <module name="ems_thymeleaf (1)" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="filemanagement" options="-parameters" />
+      <module name="provider-ticket" options="-parameters" />
+      <module name="provider-ticket (1)" options="-parameters" />
+      <module name="spring-boot-01-helloword-quick" options="-parameters" />
+      <module name="spring-boot-02-config" options="-parameters" />
+      <module name="spring-boot-02-config-autoconfig" options="-parameters" />
+      <module name="spring-boot-03-logging" options="-parameters" />
+      <module name="spring-boot-04-web-restfulcrud" options="-parameters" />
+      <module name="spring-boot-07-data-jdbc" options="-parameters" />
+      <module name="spring-boot-07-data-jpa" options="-parameters" />
+      <module name="spring-boot-07-data-mybatis" options="-parameters" />
+      <module name="spring-boot-08-cache" options="-parameters" />
+      <module name="spring-boot-09-rabbitmq" options="-parameters" />
+      <module name="spring-boot-10-elasticsearch" options="-parameters" />
+      <module name="spring-boot-11-task" options="-parameters" />
+      <module name="spring-boot-15-solr" options="-parameters" />
+      <module name="springboot-mybatisplus" options="-parameters" />
+      <module name="srping-boot-05-web-jsp" options="-parameters" />
+    </option>
+  </component>
+</project>

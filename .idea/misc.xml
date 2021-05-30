@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-05-web-jsp" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ems_thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-07-data-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-07-data-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatisplus/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-05-web-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-03-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-02-config-autoconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/emstest/pom.xml" />
+        <option value="$PROJECT_DIR$/filemanagement/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-01-helloword-quick/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-01-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-02-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-07-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-08-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-09-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-10-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-11-task/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-12-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-13-dubbo/consumer-user/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-13-dubbo/provider-ticket/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-14-springcloud/consumer-user/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-14-springcloud/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-14-springcloud/provider-ticket/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-15-solr/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

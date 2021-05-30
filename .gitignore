@@ -1,0 +1,7 @@
+# Project exclude paths
+/emstest/target/
+/spring-boot-01-helloworld/target/
+/spring-boot-02-config/target/
+/spring-boot-02-config-autoconfig/target/
+/spring-boot-03-logging/target/
+/springboot-mybatisplus/target/
